@@ -34,8 +34,10 @@ cd <repo-folder>
 #### OHIF-Fork
 ```sh
 cd OHIF-Fork
-npm install
+npm install 
 ```
+
+(If npm install doesn't work, use *npm install --legacy-peer-deps*
 
 #### Pathology-DICOM Viewer
 ```sh
