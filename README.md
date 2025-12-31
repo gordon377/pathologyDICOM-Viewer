@@ -2,7 +2,7 @@
 
 This repository is meant to demonstrate how the OHIF tools can be integrated into an Expo/React Native App and contains two independent projects:
 
-- **OHIF-Fork**: A fork of the OHIF medical imaging platform.
+- **[OHIF-Fork](https://github.com/OHIF/Viewers)**: A fork of the OHIF medical imaging platform.
 - **Pathology-DICOM Viewer**: A DICOM viewer for pathology images (Expo/React Native app).
 
 Both projects are managed independently within this monorepo. Follow the instructions below to get started with each.
