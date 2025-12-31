@@ -72,6 +72,7 @@ npm install
   cd pathology-DICOM
   npx expo start -c
   ```
+- Add you IPv4 address to the pathology-DICOM app (plcaeholder will be there)
 - Follow the Expo CLI instructions to run on a device, emulator, or web.
 
 > See `pathology-DICOM/README.md` for more details and advanced usage.
