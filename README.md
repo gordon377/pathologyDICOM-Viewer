@@ -34,7 +34,8 @@ cd <repo-folder>
 #### OHIF-Fork
 ```sh
 cd OHIF-Fork
-npm install 
+npm install
+npm audit fix
 ```
 
 (If npm install doesn't work, use *npm install --legacy-peer-deps*
