@@ -38,7 +38,7 @@ npm install
 npm audit fix
 ```
 
-(If npm install doesn't work, use *npm install --legacy-peer-deps*
+(If npm install doesn't work, use *npm install --legacy-peer-deps*)
 
 #### Pathology-DICOM Viewer
 ```sh
